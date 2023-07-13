@@ -44,4 +44,5 @@ To enhance user experience, the project incorporates Tkinter, a standard GUI too
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please open an issue on the project repository. Feel free to fork the repository and submit pull requests to contribute code changes.
 
 LICENSE
+GNU General Public License v3.0
 
